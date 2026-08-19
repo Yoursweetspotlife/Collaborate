@@ -1,3 +1,5 @@
+Introduction
+---
 Your Sweet Spot Life (YSSL) is a Canadian IP and infrastructure development company. We build the digital and physical systems needed to support a multi-industry creative and manufacturing ecosystem.
 We are currently in active R&D and prototyping phase, pre-revenue, with institutional partnerships across North America. This GitHub organization serves as the engineering backbone for that ecosystem.
 Our work is organized into three distinct digital platforms:
@@ -18,14 +20,12 @@ The digital container for our product development, narrative IP, and community e
 - Contains active IP in historical fiction, fantasy, shifter romance, contemporary drama, and children's storytelling.
 ---
 **Current Status**
-We are in active research, development, and prototyping across all three platforms. We are pre-revenue, but fully operational in development. Institutional partners are actively engaged. Physical infrastructure planning (Eco Forge) is in the research phase and will be developed separately as the digital platforms mature.
-You can follow our active visual development and creative output across:
-
-**Pinterest Moodboards, color palettes, aesthetic development**
-- https://ca.pinterest.com/yoursweetspotlife/_saved
-
-**DeviantArt Concept art, character design, visual worldbuilding.**
-- deviantart.com/ysslinc
+We are in active research, development, and prototyping across all three platforms. We are pre-revenue, but fully operational in development. Institutional partners are actively engaged. 
+Physical infrastructure planning (Eco Forge) is in the research phase and will be developed separately as the digital platforms mature.
+---
+You can follow our active visual development and creative output at:
+Pinterest: https://ca.pinterest.com/yoursweetspotlife/_saved
+DeviantArt: deviantart.com/ysslinc
 ---
 **We're Looking For**
 **Developers**
@@ -49,9 +49,7 @@ You can follow our active visual development and creative output across:
 - Businesses or organizations interested in hosting Hydro Lodge units or piloting S.T.A.R.Tbox within their communities.
 ---
 **Get Involved**
-This repository is public-facing only. To access private development files, collaborate on active projects, or discuss partnership opportunities, please contact us directly.
-**Partner Inquiry**
-- Email: Marguerite Apotre at hi@yoursweetspot.life
+This repository is public-facing only. To access private development files, collaborate on active projects, or discuss partnership opportunities, please contact us directly at hi@yoursweetspot.life
 ---
 **License**
 Proprietary and confidential. Access to internal project files requires a signed NDA and non-compete agreement. Public-facing documents are available for review under the terms specified in each repository.
