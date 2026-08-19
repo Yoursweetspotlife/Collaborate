@@ -22,5 +22,4 @@ This repository is public-facing only. To access private development files, coll
 **Partner Inquiry**
 - Email: Marguerite Apotre at hi@yoursweetspot.life
 ---
-**License**
-Proprietary and confidential. Access to internal project files requires a signed NDA and non-compete agreement. Public-facing documents are available for review under the terms specified in each repository.
+Access requires a signed NDA and non-compete agreement. We are exploring open source options to enable government partnerships while protecting our code, our mandate, and the work of our developers. Our desire is to be an Open Access platform, but we also understand the need for security and honoring the contributions of those who have built it.
