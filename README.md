@@ -26,7 +26,7 @@ Physical infrastructure planning (Eco Forge) is in the research phase and will b
 
 **You can follow our active visual development and creative output at:**
 Pinterest: https://ca.pinterest.com/yoursweetspotlife/_saved
-DeviantArt: deviantart.com/ysslinc
+DeviantArt: https://www.deviantart.com/ysslinc/about
 
 ---
 **We're Looking For**
