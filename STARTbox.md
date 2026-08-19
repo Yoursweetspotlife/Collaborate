@@ -14,6 +14,7 @@ A working model exists. Multiple development iterations have been completed thro
 ---
 **About the Code**
 Currently private. Access requires a signed NDA and non-compete agreement. We are exploring open source options to enable government partnerships while protecting our code, our mandate, and the work of our developers. Our desire is to be an Open Access platform, but we also understand the need for security and honoring the contributions of those who have built it.
+
 ---
 **Get Involved**
 This repository is public-facing only. To access the code, contribute, or discuss partnerships:
