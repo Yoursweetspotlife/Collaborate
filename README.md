@@ -53,6 +53,7 @@ Our ultimate goal is to create physical resource hubs across Canada capable of p
 ---
 **Licence**
 Access requires a signed NDA and non-compete agreement. We are exploring open source options. Our desire is to be an Open Access platform, but we also understand the need for security and honoring the contributions of those who have built it.
+
 ---
 **Get Involved**
 This repository is public-facing only. To access private development files, collaborate on active projects, or discuss partnership opportunities, please contact us directly at hi@yoursweetspot.life
