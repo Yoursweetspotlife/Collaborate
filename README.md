@@ -23,8 +23,11 @@ The digital container for our product development, narrative IP, and community e
 We are in active research, development, and prototyping across all three platforms. We are pre-revenue, but fully operational in development. Institutional partners are actively engaged. 
 Physical infrastructure planning (Eco Forge) is in the research phase and will be developed separately as the digital platforms mature.
 ---
-You can follow our active visual development and creative output at:
-Pinterest: https://ca.pinterest.com/yoursweetspotlife/_saved, DeviantArt: deviantart.com/ysslinc
+
+**You can follow our active visual development and creative output at:**
+Pinterest: https://ca.pinterest.com/yoursweetspotlife/_saved
+DeviantArt: deviantart.com/ysslinc
+
 ---
 **We're Looking For**
 **Developers**
