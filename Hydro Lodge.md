@@ -1,7 +1,8 @@
 The Project
 ---
 Hydro Lodge is a portable, modular indoor food-growing system designed to make fresh, local produce part of everyday life—especially for people living in small, shared, or temporary spaces. 
-It combines soil-based and hydroponic growing in a furniture-grade unit that fits into homes, cafés, pubs, and community spaces. The Hydro Lodge Companion App is designed to connect educational resources, events and communication platform for users who have purchased the Hydro Lodge system.
+It combines soil-based and hydroponic growing in a furniture-grade unit that fits into homes, cafés, pubs, and community spaces. 
+The Hydro Lodge Companion App is designed to connect educational resources, events and communication platform for users who have purchased the Hydro Lodge system.
 ---
 **Strategic Research Partners**
 Hydro Lodge is built in collaborations with the following academic institutions:
@@ -24,13 +25,13 @@ Manufacturing Partners
 Pilot Hosts
 - Businesses or organizations interested in hosting Hydro Lodge units to showcase functional indoor farming.
 ---
-Get Involved
-This repository is public-facing only. To access the code, contribute to development, or discuss partnership opportunities, please contact us directly.
+**Get Involved**
+- This repository is public-facing only. To access the code, contribute to development, or discuss partnership opportunities, please contact us directly.
 
-Partner Inquiry
+**Partner Inquiry**
 - Email: Marguerite Apotre at hi@yoursweetspot.life
 ---
-License
+**License**
 - This project is proprietary and confidential. Access to code requires a signed NDA and non-compete agreement.
 ---
 For the full project vision and details, visit: https://yoursweetspot.life/project/hydro-lodge
