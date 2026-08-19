@@ -53,6 +53,5 @@ DeviantArt: https://www.deviantart.com/ysslinc/about
 **Get Involved**
 This repository is public-facing only. To access private development files, collaborate on active projects, or discuss partnership opportunities, please contact us directly at hi@yoursweetspot.life
 ---
-**License**
-Proprietary and confidential. Access to internal project files requires a signed NDA and non-compete agreement. Public-facing documents are available for review under the terms specified in each repository.
----
+**Licence**
+Access requires a signed NDA and non-compete agreement. We are exploring open source options to enable government partnerships while protecting our code, our mandate, and the work of our developers. Our desire is to be an Open Access platform, but we also understand the need for security and honoring the contributions of those who have built it.
