@@ -1,8 +1,8 @@
 **The Project**
 ---
 S.T.A.R.Tbox is an adaptive development, restoration, and participation platform that helps individuals, organizations, and communities navigate transition, workforce development, entrepreneurship, learning, and long-term growth.
-It connects business, cultural, community, regional, and creative dimensions to identify gaps, benchmark against comparable profiles, and generate actionable recommendations grounded in local context.
-The platform works out of the box with baseline resources — or you can bring your own data sources, APIs, and databases. It's your choice.
+It connects business, cultural, community, regional, and creative dimensions to identify gaps, benchmark against comparable profiles, and generate actionable recommendations grounded in local context. The platform works out of the box with baseline resources — or you can bring your own data sources, APIs, and databases. It's your choice.
+
 ---
 **Current Status**
 A working model exists. Multiple development iterations have been completed through institutional collaborations. We are currently consolidating these into a streamlined, production-ready version.
