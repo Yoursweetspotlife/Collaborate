@@ -18,6 +18,3 @@ Currently private. Access requires a signed NDA and non-compete agreement. We ar
 **Get Involved**
 This repository is public-facing only. To access the code, contribute, or discuss partnerships:
 Contact Marguerite Apotre at hi@yoursweetspot.life
----
-**License**
-Proprietary and confidential. Open source options under evaluation.
