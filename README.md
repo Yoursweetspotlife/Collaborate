@@ -3,6 +3,7 @@ Introduction
 Your Sweet Spot Life (YSSL) is a Canadian IP and infrastructure development company. We build the digital and physical systems needed to support a multi-industry creative and manufacturing ecosystem.
 We are currently in active R&D and prototyping phase, pre-revenue, with institutional partnerships across North America. This GitHub organization serves as the engineering backbone for that ecosystem.
 Our work is organized into three distinct digital platforms:
+
 ---
 **Hydro Lodge**
 A portable, modular indoor food-growing system that combines soil-based and hydroponic cultivation in a furniture-grade unit. Designed for homes, cafés, pubs, and community spaces. Supported by a companion app for education, plant tracking, and community connection.
@@ -29,6 +30,7 @@ You can follow our active visual development and creative output at:
 ---
 **Future Growth**
 Our ultimate goal is to create physical resource hubs across Canada capable of producing natural resources, manufacturing and developing physical products, creating media and community focused projects. We are conducting infrastructure research for future physical locations across Canada and beyond.
+
 ---
 **We're Looking For**
 **Developers**
