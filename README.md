@@ -18,13 +18,17 @@ An adaptive development, restoration, and participation platform. It helps indiv
 The digital container for our product development, narrative IP, and community engagement pipelines. It houses our manufacturing research, supply chain blueprints, and original creative IP across multiple genres. It will eventually serve as the e-commerce layer that connects our production to the public.
 - IP vault + content platform + future storefront.
 - Contains active IP in historical fiction, fantasy, shifter romance, contemporary drama, and children's storytelling.
+- Contains supply chain analysis for every day products, prototypes, look books, product renderings and forward looking QMS reports
 ---
 **Current Status**
 We are in active research, development, and prototyping across all three platforms. We are pre-revenue, but fully operational in development. Institutional partners are actively engaged. 
-Physical infrastructure planning (Eco Forge) is in the research phase and will be developed separately as the digital platforms mature.
 You can follow our active visual development and creative output at:
 - https://ca.pinterest.com/yoursweetspotlife/_saved
 - https://www.deviantart.com/ysslinc/about
+
+---
+**Future Growth**
+Our ultimate goal is to create physical resource hubs across Canada capable of producing natural resources, manufacturing and developing physical products, creating media and community focused projects. We are conducting infrastructure research for future physical locations across Canada and beyond.
 ---
 **We're Looking For**
 **Developers**
