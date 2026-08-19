@@ -3,6 +3,7 @@
 The Portal Post is the container for all the IP we build. 
 It holds the stories, the products, and the community pipelines that turn ideas into sellable assets. It is not a tech company. It is a **creative and industrial IP engine** running three parallel tracks: Product Development, Narrative Development, and Into the Portal (Community Development).
 All three tracks produce IP. All three feed the same ecosystem. Eventually, The Portal Post will be the public-facing storefront where those products—physical, digital, filmed, and educational—are sold.
+
 ---
 **Current Status**
 We are currently in the research and development phase. You can view the full scope of our active IP projects and narrative development across the following platforms:
@@ -18,6 +19,7 @@ We are currently in the research and development phase. You can view the full sc
 ---
 **Get Involved**
 This repository is public-facing only. To access private development files, collaborate on active projects, or discuss partnership opportunities, please contact us directly.
+
 ---
 **Partner Inquiry**
 - Email: Marguerite Apotre at hi@yoursweetspot.life
