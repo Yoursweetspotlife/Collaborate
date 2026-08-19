@@ -22,12 +22,9 @@ The digital container for our product development, narrative IP, and community e
 **Current Status**
 We are in active research, development, and prototyping across all three platforms. We are pre-revenue, but fully operational in development. Institutional partners are actively engaged. 
 Physical infrastructure planning (Eco Forge) is in the research phase and will be developed separately as the digital platforms mature.
----
-
-**You can follow our active visual development and creative output at:**
+You can follow our active visual development and creative output at:
 Pinterest: https://ca.pinterest.com/yoursweetspotlife/_saved
 DeviantArt: https://www.deviantart.com/ysslinc/about
-
 ---
 **We're Looking For**
 **Developers**
@@ -50,8 +47,8 @@ DeviantArt: https://www.deviantart.com/ysslinc/about
 **Pilot Hosts**
 - Businesses or organizations interested in hosting Hydro Lodge units or piloting S.T.A.R.Tbox within their communities.
 ---
+**Licence**
+Access requires a signed NDA and non-compete agreement. We are exploring open source options. Our desire is to be an Open Access platform, but we also understand the need for security and honoring the contributions of those who have built it.
+---
 **Get Involved**
 This repository is public-facing only. To access private development files, collaborate on active projects, or discuss partnership opportunities, please contact us directly at hi@yoursweetspot.life
----
-**Licence**
-Access requires a signed NDA and non-compete agreement. We are exploring open source options to enable government partnerships while protecting our code, our mandate, and the work of our developers. Our desire is to be an Open Access platform, but we also understand the need for security and honoring the contributions of those who have built it.
