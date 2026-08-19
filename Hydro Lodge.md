@@ -31,7 +31,4 @@ Pilot Hosts
 **Partner Inquiry**
 - Email: Marguerite Apotre at hi@yoursweetspot.life
 ---
-**License**
-- This project is proprietary and confidential. Access to code requires a signed NDA and non-compete agreement.
----
-For the full project vision and details, visit: https://yoursweetspot.life/project/hydro-lodge
+Access requires a signed NDA and non-compete agreement. We are exploring open source options to enable government partnerships while protecting our code, our mandate, and the work of our developers. Our desire is to be an Open Access platform, but we also understand the need for security and honoring the contributions of those who have built it.
