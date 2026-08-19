@@ -1,7 +1,8 @@
-# Hydro Lodge Companion App
-## About Hydro Lodge
+Hydro Lodge Companion App
+---
+About Hydro Lodge
 Hydro Lodge is a portable, modular indoor food-growing system designed to make fresh, local produce part of everyday life—especially for people living in small, shared, or temporary spaces. It combines soil-based and hydroponic growing in a furniture-grade unit that fits into homes, cafés, pubs, and community spaces.
-This repository contains the Hydro Lodge Companion App, developed in collaboration with Mohawk College.
+---
 For the full project vision and details, visit: https://yoursweetspot.life/project/hydro-lodge
 ---
 Project Status
