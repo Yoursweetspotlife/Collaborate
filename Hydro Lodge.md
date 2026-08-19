@@ -1,8 +1,7 @@
 The Project
 ---
-Hydro Lodge is a portable, modular indoor food-growing system designed to make fresh, local produce part of everyday life—especially for people living in small, shared, or temporary spaces. 
-It combines soil-based and hydroponic growing in a furniture-grade unit that fits into homes, cafés, pubs, and community spaces. 
-The Hydro Lodge Companion App is designed to connect educational resources, events and communication platform for users who have purchased the Hydro Lodge system.
+Hydro Lodge is a portable, modular indoor food-growing system designed to make fresh, local produce part of everyday life—especially for people living in small, shared, or temporary spaces. It combines soil-based and hydroponic growing in a furniture-grade unit that fits into homes, cafés, pubs, and community spaces. The Hydro Lodge Companion App is designed to connect educational resources, events and communication platform for users who have purchased the Hydro Lodge system.
+
 ---
 **Strategic Research Partners**
 Hydro Lodge is built in collaborations with the following academic institutions:
@@ -11,6 +10,7 @@ Hydro Lodge is built in collaborations with the following academic institutions:
 - UPEI – Initial physical prototype development
 ---
 We have just began our collaboration with Northeastern University and will be continuing development on this after their semester break. More details to follow.
+
 ---
 **We're Looking For**
 Developers
