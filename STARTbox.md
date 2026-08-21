@@ -1,6 +1,6 @@
 **The Project**
 ---
-S.T.A.R.Tbox is an adaptive development, restoration, and participation platform that helps individuals, organizations, and communities navigate transition, workforce development, entrepreneurship, learning, and long-term growth.
+S.T.A.R.Tbox, which stand for Systematic Training and Restoration Toolbox, is an adaptive platform that helps individuals, organizations, and communities navigate transition, workforce development, entrepreneurship, learning, and long-term growth.
 It connects business, cultural, community, regional, and creative dimensions to identify gaps, benchmark against comparable profiles, and generate actionable recommendations grounded in local context. The platform works out of the box with baseline resources — or you can bring your own data sources, APIs, and databases. It's your choice.
 
 ---
@@ -17,5 +17,5 @@ Currently private. Access requires a signed NDA and non-compete agreement. We ar
 
 ---
 **Get Involved**
-This repository is public-facing only. To access the code, contribute, or discuss partnerships:
+To access the code, contribute, or discuss partnerships:
 Contact Marguerite Apotre at hi@yoursweetspot.life
